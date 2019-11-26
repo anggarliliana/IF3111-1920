@@ -1,0 +1,135 @@
+body {
+	width: 100%;
+	font-family: sans-serif;
+}
+h1 {
+	float: center;
+	text-align: center;
+	font-style: sans-serif;
+}
+
+.header {
+	background-color: white;
+}
+
+/*menu*/
+.wrap .menu {
+	height: 150px;
+	width: 100%;
+}
+.wrap .menu ul {
+	padding: 0;
+	margin: 0;
+	background: red;
+	overflow: hidden;
+	
+}
+.wrap .menu ul li {
+	float: right;
+	list-style-type: none;
+	padding: 10px;
+	display: inline-block;
+	float: left;
+	}
+li a{
+	text-decoration: none;
+	display: inline-block;
+	color: white;
+	float: left;
+}
+.wrap .menu ul li a:hover {
+	background-color: grey;
+	color: white;
+}
+
+
+form {
+	width:100%;
+	margin: 50px auto;
+}
+.search {
+	float: right;
+	position: relative;
+	padding: 8px 15px;
+	margin-top: 10px;
+	margin-bottom: 8px;
+	background:white;
+	border:0px solid #dbdbdb;
+	width:400px;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	color: black;
+}
+.button {
+	float: right;
+	padding: 6px 15px;
+	margin-top:10px;
+	left: -8px;
+	border:2px solid red;
+	background-color: red;
+	color: #fafafa;
+	width: 80px;
+	border-bottom-left-radius: 5px;
+	border-top-left-radius: 5px;
+}
+.button:hover {
+	background-color: grey;
+	color: white;
+}
+.body {
+	margin-top: 0px;
+	background-color: pink;
+}
+.h2{
+	margin-top: 0px;
+	text-align: center;
+	color: black;
+	font-family:forte;
+	font-size: 30px;
+}
+p {
+	text-align: center;
+	color: black;
+	font-family: forte;
+	font-size: 25px;
+}
+hr {
+	width: 100px;
+	border-top-color: red;
+	border-bottom-color: red;
+	background-color: red;
+	height:4px;
+}
+.h3 {
+	margin-top: 100px;
+	text-align: center;
+}
+
+.komentar-form-body .form-control{
+	position: relative;
+	width: 700px;
+	height:350px;
+	margin-left: 350px;
+	border-top-color:black;
+	border-bottom-color: black;
+	border-right-color: black;
+	border-left-color: black;
+}
+select {
+	margin-top: 10px;
+	margin-left: 350px;
+}
+.input {
+	margin-top: 10px;
+	margin-left: 350px;
+}
+.body .button-lapor {
+	float: right;
+}
+.footer {
+	width: 100%;
+	height: 50px;
+	background-color: red;
+	color: black;
+	text-align: center;
+}
