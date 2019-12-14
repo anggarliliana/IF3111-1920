@@ -10,9 +10,3 @@ Dosen       : Arief Ichwani, S.Kom., M.Cs., Andre Febrianto, S.Kom., M.Eng
 - Anggar Liliana 		14116022
 
 
-![](tampilan/utama.png)
-
-![](tampilan/buat.png)
-
-
-![](tampilan/detail.png)
